@@ -7,7 +7,7 @@
   * Follow directions from https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps
 * If planning to run more advanced analysis using Honeybee, install Radiance and OpenStudio per the directions above.
   * Note: These require IT Admin approval / credentials to run installers.  Contact Ballinger_IT <Ballinger_IT@Ballinger.com> or Ballinger_BIM_Support <Ballinger_BIM_Support@ballinger.com>
-* **Optional** Install Bifocals to enable automatic node labels.
+* **Optional** Install Bifocals to enable [automatic node labels](Bifocals-Example.md).
   
 ### Running Rhino.Inside.Revit
 * Open Revit and project model.
